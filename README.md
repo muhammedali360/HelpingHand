@@ -10,7 +10,9 @@ On January 18-19, over 700 students, hackers, and creators will come together fo
 
 ## About Helping Hand
 
-The app serves as a hiring service for mundane tasks. A user in need of help can create a request and local volunteers are then able to respond. The volunteer is given directions to the user and once finished, the user is expected to make the agreed donation to the charity chosen by the volunteer.
+The app serves as a hiring service for everyday tasks. A user in need of help can create a request and local volunteers are then able to respond. The volunteer is given directions to the user and once finished, the user is expected to make the agreed donation to the charity chosen by the volunteer.
+
+https://devpost.com/software/helping-hand-stgbry
 
 ### Inspiration
 
